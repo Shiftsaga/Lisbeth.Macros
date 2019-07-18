@@ -1,0 +1,42 @@
+Name: Level 70 3Star 35 Durability - Non-Specialist
+Type: Craft
+Enabled: False
+Conditions: (MaxDurability == 35 && MaxProgress == 2365 && Craftsmanship >= 1500 && Control >= 1350 && Cp >= 538 && RecipeLevel == 350)
+
+S1:
+- Muscle Memory
+- Comfort Zone
+- Inner Quiet
+- Manipulation II
+- Steady Hand II
+- Piece by Piece
+- Prudent Touch
+- Prudent Touch
+- Prudent Touch
+- Prudent Touch
+- Observe
+- Focused Touch
+- Comfort Zone
+- Manipulation II
+- Observe
+- Focused Touch
+- Observe
+- Focused Touch
+- Steady Hand II
+- Basic Touch
+- Great Strides
+- Innovation
+
+S2: (IsExcellent == true)
+- Byregot's Blessing
+- Ingenuity II
+- Careful Synthesis II
+- Careful Synthesis II
+- Careful Synthesis II
+
+S3:
+- Ingenuity II
+- Byregot's Blessing
+- Careful Synthesis II
+- Careful Synthesis II
+- Careful Synthesis II

@@ -1,0 +1,46 @@
+Name: (320) ArcticWhiteFox's D70 - 505 CP
+Type: Craft
+Enabled: False
+Conditions: (Cp >= 505 && MaxDurability == 70 && MaxProgress == 3543 && RecipeLevel == 320)
+
+S1:
+- Muscle Memory
+- Comfort Zone
+- Inner Quiet
+- Steady Hand II
+- Piece by Piece
+- Prudent Touch
+- Prudent Touch
+- Prudent Touch
+- Prudent Touch
+- Manipulation II
+- Steady Hand II
+- Prudent Touch
+- Comfort Zone
+- Prudent Touch
+- Prudent Touch
+- Prudent Touch
+- Steady Hand II
+- Prudent Touch
+- Great Strides
+- Innovation
+=> S3 (IsExcellent == true)
+
+S2:
+- Ingenuity II
+- Byregot's Blessing
+- Careful Synthesis III
+- Careful Synthesis III
+- Careful Synthesis III
+- Careful Synthesis III
+=> S4
+
+S3:
+- Byregot's Blessing
+- Ingenuity II
+- Careful Synthesis III
+- Careful Synthesis III
+- Careful Synthesis III
+- Careful Synthesis III
+
+S4:

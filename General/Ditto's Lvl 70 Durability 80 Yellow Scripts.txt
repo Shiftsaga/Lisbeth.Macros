@@ -1,0 +1,25 @@
+Name: Ditto's Lvl 70 Durability 80 Yellow Scripts
+Type: Craft
+Enabled: True
+Conditions: (MaxDurability == 80 && RecipeDisplayLevel == 70 && Craftsmanship >= 1490 && Control >= 1250 && Cp >= 464)
+
+S1:
+- Muscle Memory
+- Comfort Zone
+- Inner Quiet
+- Manipulation II
+- Steady Hand II
+- Prudent Touch
+- Prudent Touch
+- Prudent Touch
+- Prudent Touch
+- Advanced Touch
+- Steady Hand II
+- Advanced Touch
+- Great Strides
+- Innovation
+- Ingenuity II
+- Byregot's Blessing
+- Careful Synthesis III
+- Careful Synthesis III
+- Careful Synthesis III

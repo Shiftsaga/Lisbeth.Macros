@@ -1,0 +1,36 @@
+Name: (320) Snicker's Specialist D70 - 543 CP - 5000 Quality
+Type: Craft
+Enabled: False
+Conditions: (MaxDurability == 70 && MaxProgress == 6377 && Craftsmanship >= 1574 && Control >= 1550 && Cp >= 543 && RecipeLevel == 320)
+
+s1:
+- Initial Preparations
+- Comfort Zone
+- Inner Quiet
+- Specialty Reflect
+- Steady Hand II
+- Piece by Piece
+- Piece by Piece
+- Piece by Piece
+- Prudent Touch
+- Prudent Touch
+- Manipulation II
+- Careful Synthesis II
+- Comfort Zone
+- Ingenuity
+- Steady Hand II
+- Prudent Touch
+- Prudent Touch
+- Prudent Touch
+- Prudent Touch
+- Prudent Touch
+- Steady Hand
+- Great Strides
+- Innovation
+- Ingenuity II
+- Byregot's Blessing
+- Observe
+- Focused Synthesis
+- Careful Synthesis III
+- Careful Synthesis III
+

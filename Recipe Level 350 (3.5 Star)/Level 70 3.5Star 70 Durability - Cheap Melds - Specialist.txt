@@ -1,0 +1,39 @@
+Name: Level 70 3.5Star 70 Durability - Cheap Melds - Specialist
+Type: Craft
+Enabled: False
+Conditions: (MaxDurability == 70 && MaxProgress == 3943 && Craftsmanship >= 1600 && Control >= 1695 && Cp >= 549 && RecipeLevel == 350 && Specialized == True)
+
+S1:
+- Initial Preparations
+- Comfort Zone
+- Inner Quiet
+- Specialty Reflect
+- Ingenuity
+- Steady Hand II
+- Prudent Touch
+- Prudent Touch
+- Prudent Touch
+- Prudent Touch
+- Prudent Touch
+- Manipulation II
+- Comfort Zone
+- Great Strides
+- Ingenuity
+- Observe
+- Focused Touch
+- Great Strides
+- Observe
+- Focused Touch
+- Ingenuity II
+- Great Strides
+- Innovation
+- Steady Hand II
+- Byregot's Miracle
+- Rumination
+- Piece by Piece
+- Piece by Piece
+- Piece by Piece
+- Observe
+- Focused Synthesis
+- Careful Synthesis III
+- Careful Synthesis II

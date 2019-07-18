@@ -1,0 +1,45 @@
+Name: (320) ArcticWhiteFox's Specialist D70 - 514 CP
+Type: Craft
+Enabled: False
+Conditions: (Cp >= 514 && MaxDurability == 70 && MaxProgress == 3543 && RecipeLevel == 320 && Specialized == True)
+
+S1:
+- Muscle Memory
+- Comfort Zone
+- Inner Quiet
+- Ingenuity
+- Steady Hand II
+- Piece by Piece
+- Prudent Touch
+- Prudent Touch
+- Prudent Touch
+- Prudent Touch
+- Manipulation II
+- Steady Hand II
+- Prudent Touch
+- Comfort Zone
+- Prudent Touch
+- Prudent Touch
+- Prudent Touch
+- Steady Hand II
+- Prudent Touch
+- Great Strides
+- Innovation
+=> S3 (IsExcellent == true)
+
+S2:
+- Ingenuity II
+- Byregot's Blessing
+- Careful Synthesis III
+- Careful Synthesis III
+- Careful Synthesis III
+- Careful Synthesis III
+=> S4
+
+S3:
+- Byregot's Blessing
+- Ingenuity II
+- Careful Synthesis III
+- Careful Synthesis III
+- Careful Synthesis III
+- Careful Synthesis III

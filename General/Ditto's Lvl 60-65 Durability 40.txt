@@ -1,0 +1,47 @@
+Name: Level 60-65 Recipes 40 Durability
+Type: Craft
+Enabled: True
+Conditions: (MaxDurability == 40 && RecipeDisplayLevel >= 60 && RecipeDisplayLevel <= 65)
+
+S1: 
+- Comfort Zone
+- Inner Quiet
+- Waste Not II
+- Steady Hand II
+- (IsGoodOrExcellent == true) Precise Touch | Basic Touch
+- (IsGoodOrExcellent == true) Precise Touch | Basic Touch
+- (IsGoodOrExcellent == true) Precise Touch | Basic Touch
+- (IsGoodOrExcellent == true) Precise Touch | Basic Touch
+- (IsGoodOrExcellent == true) Precise Touch | Basic Touch
+- (IsGoodOrExcellent == true) Precise Touch | Basic Touch
+- (IsGoodOrExcellent == true) Precise Touch | Basic Touch
+- Master's Mend
+- Steady Hand
+- Ingenuity II
+=> S2 (IsExcellent == true)
+=> S3
+
+S2:
+- Byregot's Blessing
+- Careful Synthesis II
+- Careful Synthesis II
+- Careful Synthesis II
+
+S3:
+- Great Strides
+=> S4 (IsGoodOrExcellent == true)
+=> S5
+
+S4:
+- Byregot's Blessing
+- Careful Synthesis II
+- Careful Synthesis II
+- Careful Synthesis II
+
+S5:
+- Innovation
+- Byregot's Blessing
+- Careful Synthesis II
+- Careful Synthesis II
+- Careful Synthesis II
+

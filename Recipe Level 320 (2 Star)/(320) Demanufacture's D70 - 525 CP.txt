@@ -1,0 +1,102 @@
+Name: (320) Demanufacture's D70 - 525 CP
+Type: Craft
+Enabled: False
+Conditions: (MaxDurability == 70 && MaxProgress == 6377 && Craftsmanship >= 1320 && Control >= 1220 && Cp >= 525 && RecipeLevel == 320)
+
+S1: 
+- Maker's Mark
+- Comfort Zone
+- Steady Hand
+- Piece by Piece
+- Piece by Piece
+- Piece by Piece
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Comfort Zone
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Comfort Zone
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Comfort Zone
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Comfort Zone
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- (Progress < 6138) Flawless Synthesis
+- (Progress < 6138) Flawless Synthesis
+- (Progress < 6138) Flawless Synthesis
+- (Progress < 6138) Flawless Synthesis
+- (Progress < 6138) Flawless Synthesis
+- (Progress < 6138) Flawless Synthesis
+- (Progress < 6138) Flawless Synthesis
+- (Progress < 6138) Flawless Synthesis
+- Comfort Zone
+- Inner Quiet
+- Manipulation II
+- Steady Hand II
+- Basic Touch
+- Ingenuity
+- Basic Touch
+- Prudent Touch
+- Prudent Touch
+- Observe
+- Focused Touch
+- Comfort Zone
+- Steady Hand II
+- Ingenuity
+- Prudent Touch
+- Prudent Touch
+- Prudent Touch
+- Prudent Touch
+- Steady Hand II
+- Ingenuity II
+- Innovation
+- Prudent Touch
+
+S2: (IsExcellent == true)
+- Byregot's Blessing
+- Careful Synthesis II
+
+S3:
+- Great Strides
+- Byregot's Blessing
+- Careful Synthesis II
+

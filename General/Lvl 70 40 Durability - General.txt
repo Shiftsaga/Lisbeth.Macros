@@ -1,0 +1,34 @@
+Name: Level 70 40 Durability - General
+Type: Craft
+Enabled: False
+Conditions: (MaxDurability == 40 && RecipeDisplayLevel >= 60)
+
+S1: 
+- Comfort Zone
+- Inner Quiet
+- Steady Hand II
+- Prudent Touch
+- Prudent Touch
+- Prudent Touch
+- Prudent Touch
+- Prudent Touch
+- Manipulation II
+=> S2 (Quality < 9000)
+=> S3
+
+S2:
+- Steady Hand II
+- Prudent Touch
+- Prudent Touch
+- Prudent Touch
+- Prudent Touch
+
+S3:
+- Steady Hand
+- Great Strides
+- (IsGoodOrExcellent == true) Tricks of the Trade | Ingenuity II
+- Byregot's Blessing
+- Careful Synthesis III
+- Careful Synthesis III
+- Careful Synthesis III
+- Careful Synthesis II

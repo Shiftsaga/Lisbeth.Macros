@@ -1,0 +1,97 @@
+Name: (320) ArcticWhiteFox's Specialist D70 - 528 CP - 6377 Quality
+Type: Craft
+Enabled: True
+Conditions: (MaxDurability == 70 && MaxProgress == 6377 && Craftsmanship >= 1363 && Control >= 1263 && Cp >= 528 && RecipeLevel == 320 && Specialized == True)
+
+S1: 
+- Maker's Mark
+- Comfort Zone
+- Steady Hand
+- Piece by Piece
+- Piece by Piece
+- Piece by Piece
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Comfort Zone
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Comfort Zone
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Comfort Zone
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Comfort Zone
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Comfort Zone
+- Inner Quiet
+- Manipulation II
+- Steady Hand II
+- Patient Touch
+- Ingenuity
+- Prudent Touch
+- Prudent Touch
+- Prudent Touch
+- Observe
+- Focused Touch
+- Comfort Zone
+- Steady Hand II
+- Ingenuity
+- Prudent Touch
+- Prudent Touch
+- Prudent Touch
+- Prudent Touch
+- Ingenuity II
+- Steady Hand II
+- Innovation
+- Prudent Touch
+=> S3 (IsGoodOrExcellent == true)
+
+S2:
+- Great Strides
+- Byregot's Blessing
+- Observe
+- Focused Synthesis
+=> S4
+
+S3:
+- Byregot's Blessing
+- Observe
+- Focused Synthesis

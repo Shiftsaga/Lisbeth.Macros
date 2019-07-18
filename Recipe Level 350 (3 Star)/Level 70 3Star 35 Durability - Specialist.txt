@@ -1,0 +1,40 @@
+Name: Level 70 3Star 35 Durability - Specialist
+Type: Craft
+Enabled: False
+Conditions: (MaxDurability == 35 && MaxProgress == 2365 && Craftsmanship >= 1500 && Control >= 1350 && Cp >= 524 && RecipeLevel == 350 && Specialized == True)
+
+S1:
+- Initial Preparations
+- Comfort Zone
+- Inner Quiet
+- Specialty Reflect
+- Steady Hand II
+- Manipulation II
+- Piece by Piece
+- Piece by Piece
+- Prudent Touch
+- Prudent Touch
+- Observe
+- Focused Synthesis
+- Comfort Zone
+- Ingenuity
+- Steady Hand II
+- Innovation
+- Prudent Touch
+- Prudent Touch
+- Prudent Touch
+- Steady Hand II
+- Prudent Touch
+- Ingenuity II
+- Innovation
+
+S2: (IsExcellent == true)
+- Byregot's Blessing
+- Observe
+- Focused Synthesis
+
+S3:
+- Great Strides
+- Byregot's Blessing
+- Observe
+- Focused Synthesis

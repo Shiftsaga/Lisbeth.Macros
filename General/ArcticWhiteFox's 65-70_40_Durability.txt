@@ -1,0 +1,30 @@
+Name: 65-70 40 Durability
+Type: Craft
+Enabled: False
+Conditions: (MaxDurability <= 40 && MaxProgress == 1500 && RecipeDisplayLevel >= 60 && Cp >= 440)
+
+S1: 
+- Comfort Zone
+- Inner Quiet
+- Steady Hand II
+- Prudent Touch
+- Prudent Touch
+- Prudent Touch
+- Prudent Touch
+- Prudent Touch
+- Manipulation II
+- Steady Hand II
+- Prudent Touch
+- Prudent Touch
+- Prudent Touch
+- Prudent Touch
+- Steady Hand
+- Great Strides
+- Ingenuity II
+- Byregot's Blessing
+- Careful Synthesis III
+- Careful Synthesis III
+- Careful Synthesis III
+
+
+

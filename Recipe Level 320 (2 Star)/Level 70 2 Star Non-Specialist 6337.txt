@@ -1,0 +1,86 @@
+Name: Lvl 70 2 Star Non-Specialist 6377
+Type: Craft
+Enabled: False
+Conditions: (MaxDurability == 70 && MaxProgress == 6377 && Craftsmanship >= 1320 && Control >= 1220 && Cp >= 500 && RecipeLevel == 320)
+
+S1: 
+- Maker's Mark
+- Comfort Zone
+- Steady Hand
+- Piece by Piece
+- Piece by Piece
+- Piece by Piece
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Comfort Zone
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Comfort Zone
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Comfort Zone
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Comfort Zone
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Flawless Synthesis
+- Comfort Zone
+- Flawless Synthesis
+- Inner Quiet
+- Manipulation II
+- Steady Hand II
+- Prudent Touch
+- Prudent Touch
+- Prudent Touch
+- Prudent Touch
+- Prudent Touch
+- Steady Hand II
+- Comfort Zone
+- Prudent Touch
+- Prudent Touch
+- Prudent Touch
+- Prudent Touch
+- Steady Hand II
+- Ingenuity II
+- Innovation
+- Prudent Touch
+- Great Strides
+- Byregot's Blessing
+- Careful Synthesis II
+- Careful Synthesis II
